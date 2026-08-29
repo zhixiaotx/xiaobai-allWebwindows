@@ -33,7 +33,7 @@ $(function(){
         {name:'全网ai合集',url:'https://zxsla.wasmer.app/ai-navigation-%E5%85%A8%E7%BD%91AI%E5%90%88%E9%9B%86-%E4%B8%83%E5%AE%9D%E6%95%B4%E7%90%86.html',icon:'./img/music5.jpg'},
         {name:'音乐自建',url:'https://zxsla.wasmer.app/get/',icon:'./img/music2.jpg'},
         {name:'ziyuandh',url:'https://ziyuandh.rainsky.cc.cd/',icon:'./img/music4.jpg'},
-        {name:'markhub',url:'https://markhub-eb6.pages.dev/,icon:'./img/bilibili.png'},
+        {name:'markhub',url:'https://markhub-eb6.pages.dev/',icon:'./img/bilibili.png'},
         {name:'Rainbow-泫然导航',url:'https://xydh.fun/Rainbow',icon:'./img/hy123.jpg'},
         {name:'home-imsyy',url:'https://home.stimi.cc.cd/',icon:'./img/rjyspan.png'},
         {name:'lib导航',url:'https://lib-6z1.pages.dev/',icon:'./img/imageres_5.ico'},
